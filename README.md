@@ -18,3 +18,4 @@
 | [DAVE THE DIVER] | 9.3 | PC | 경영 시뮬레이션, 액션 어드벤처 | 20시간 | 2023-07-13 | [Review](https://github.com/fkdl0048/GameReview/issues/3) |
 | [StafferCase](https://store.steampowered.com/app/2128480/_/) | 9.5 | PC | 추리, 비쥬얼 노벨 | 7시간 | 2023-08-08 | [Review](https://github.com/fkdl0048/GameReview/issues/5) |
 | [Graveyard Keeper](https://store.steampowered.com/app/599140/Graveyard_Keeper/) | 6 | PC | 경영 시뮬레이션, 샌드박스 | 10시간 | 2023-08-21 | [Review](https://github.com/fkdl0048/GameReview/issues/6) |
+| [ETERNAL RETURN](https://store.steampowered.com/app/1049590/Eternal_Return/) | 8 | PC | 배틀로얄 | 50시간 | 2023-09-25 | [Review](https://github.com/fkdl0048/GameReview/issues/8) |
