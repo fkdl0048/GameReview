@@ -21,3 +21,4 @@
 | [ETERNAL RETURN](https://store.steampowered.com/app/1049590/Eternal_Return/) | 8 | PC | 배틀로얄 | 50시간 | 2023-09-25 | [Review](https://github.com/fkdl0048/GameReview/issues/8) |
 | [Hades](https://store.steampowered.com/app/1145360/Hades/?l=koreana) | 9 | PC | 핵 앤 슬래시, 로크라이크 | 16시간 | 2023-10-31 | [Review](https://github.com/fkdl0048/GameReview/issues/9) |
 | [Brotato](https://store.steampowered.com/app/1942280/Brotato/) | 7 | PC | 뱀서라이크 | 11.5시간 | 2023=11-19 | [Review](https://github.com/fkdl0048/GameReview/issues/10) |
+| [Potion Craft: Alchemist Simulator](https://store.steampowered.com/app/1210320/Potion_Craft_Alchemist_Simulator/?l=koreana) | 8.2 | PC | 크래프팅 시뮬레이션 | 11.6시간 | 2023-12-28 | [Review](https://github.com/fkdl0048/GameReview/issues/12) |
