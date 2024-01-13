@@ -14,11 +14,12 @@
 
 | 게임명 | 평점 | 플랫폼 | 장르 | 플레이 시간 | 플레이 날짜 | 정리 내용 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Frostpunk] | 8.5 | PC | 경영 시뮬레이션, 생존 | 6시간 | 2023-07-09 | [Review](https://github.com/fkdl0048/GameReview/issues/2) |
-| [DAVE THE DIVER] | 9.3 | PC | 경영 시뮬레이션, 액션 어드벤처 | 20시간 | 2023-07-13 | [Review](https://github.com/fkdl0048/GameReview/issues/3) |
+| [Frostpunk](https://store.steampowered.com/app/323190/Frostpunk/) | 8.5 | PC | 경영 시뮬레이션, 생존 | 6시간 | 2023-07-09 | [Review](https://github.com/fkdl0048/GameReview/issues/2) |
+| [DAVE THE DIVER](https://store.steampowered.com/app/1868140/_/?l=koreana) | 9.3 | PC | 경영 시뮬레이션, 액션 어드벤처 | 20시간 | 2023-07-13 | [Review](https://github.com/fkdl0048/GameReview/issues/3) |
 | [StafferCase](https://store.steampowered.com/app/2128480/_/) | 9.5 | PC | 추리, 비쥬얼 노벨 | 7시간 | 2023-08-08 | [Review](https://github.com/fkdl0048/GameReview/issues/5) |
 | [Graveyard Keeper](https://store.steampowered.com/app/599140/Graveyard_Keeper/) | 6 | PC | 경영 시뮬레이션, 샌드박스 | 10시간 | 2023-08-21 | [Review](https://github.com/fkdl0048/GameReview/issues/6) |
 | [ETERNAL RETURN](https://store.steampowered.com/app/1049590/Eternal_Return/) | 8 | PC | 배틀로얄 | 50시간 | 2023-09-25 | [Review](https://github.com/fkdl0048/GameReview/issues/8) |
 | [Hades](https://store.steampowered.com/app/1145360/Hades/?l=koreana) | 9 | PC | 핵 앤 슬래시, 로크라이크 | 16시간 | 2023-10-31 | [Review](https://github.com/fkdl0048/GameReview/issues/9) |
-| [Brotato](https://store.steampowered.com/app/1942280/Brotato/) | 7 | PC | 뱀서라이크 | 11.5시간 | 2023=11-19 | [Review](https://github.com/fkdl0048/GameReview/issues/10) |
+| [Brotato](https://store.steampowered.com/app/1942280/Brotato/) | 7 | PC | 뱀서라이크 | 11.5시간 | 2023-11-19 | [Review](https://github.com/fkdl0048/GameReview/issues/10) |
 | [Potion Craft: Alchemist Simulator](https://store.steampowered.com/app/1210320/Potion_Craft_Alchemist_Simulator/?l=koreana) | 8.2 | PC | 크래프팅 시뮬레이션 | 11.6시간 | 2023-12-28 | [Review](https://github.com/fkdl0048/GameReview/issues/12) |
+| [Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) | 9 | PC | 로그라이크, TPS | 12.2시간 | 2023-12-14 | [Review](https://github.com/fkdl0048/GameReview/issues/11) |
