@@ -24,3 +24,4 @@
 | [Potion Craft: Alchemist Simulator](https://store.steampowered.com/app/1210320/Potion_Craft_Alchemist_Simulator/?l=koreana) | 8.2 | PC | 크래프팅 시뮬레이션 | 11.6시간 | 2023-12-28 | [Review](https://github.com/fkdl0048/GameReview/issues/12) |
 | [Risk of Rain 2](https://store.steampowered.com/app/632360/Risk_of_Rain_2/) | 9 | PC | 로그라이크, TPS | 12.2시간 | 2023-12-14 | [Review](https://github.com/fkdl0048/GameReview/issues/11) |
 | [Forager](https://store.steampowered.com/app/751780/Forager/) | 6 | PC | 시뮬레이션 | 14.3시간 | 2024-01-03 | [Review](https://github.com/fkdl0048/GameReview/issues/13) |
+| [Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest_Dungeon/) | 7.5 | PC | 턴제 로그라이크 던전 RPG | 12.4시간 | 2024-02-10 | [Review](https://github.com/fkdl0048/GameReview/issues/14) |
