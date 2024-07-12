@@ -28,3 +28,4 @@
 | [Risk of Rain Returns](https://store.steampowered.com/app/1337520/Risk_of_Rain_Returns/) | 8 | PC | 로그라이크, TPS | 16.3시간 | 2024-03-20 | [Review](https://github.com/fkdl0048/GameReview/issues/15) |
 | [The Case of the Golden Idol](https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/) | 7.3 | PC | 추리, 포인트 앤 클릭 | 6.7시간 | 2024-05-05 | [Review](https://github.com/fkdl0048/GameReview/issues/16) |
 | [Hades II](https://store.steampowered.com/app/1145350/Hades_II/) | 8.2 | PC | 핵 앤 슬래시, 로크라이크 | 13.2시간 | 2024-07-06 | [Review](https://github.com/fkdl0048/GameReview/issues/17) |
+| [Rusty's Retirement](https://store.steampowered.com/app/2666510/Rustys_Retirement/) | 4.2 | PC | 경영 시뮬레이션 | 11.6시간 | 2024-07-06 | [Review](https://github.com/fkdl0048/GameReview/issues/18) |
