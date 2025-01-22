@@ -31,3 +31,4 @@
 | [Rusty's Retirement](https://store.steampowered.com/app/2666510/Rustys_Retirement/) | 4.2 | PC | 경영 시뮬레이션 | 11.6시간 | 2024-07-06 | [Review](https://github.com/fkdl0048/GameReview/issues/18) |
 | [STAFFER REBORN](https://store.steampowered.com/app/2658920/Staffer_Reborn/) | 7.1 | PC | 추리, 비쥬얼 노벨 | 1시간 20분 | 2024-08-08 | [Review](https://github.com/fkdl0048/GameReview/issues/20) |
 | [Balatro](https://store.steampowered.com/app/2379780/Balatro/) | 7.6 | PC | 로그라이크, 카드 | 11.1시간 | 2024-10-04 | [Review](https://github.com/fkdl0048/GameReview/issues/21)
+| [SUPERVIVE](https://supervive.nexon.com/) | 9 | PC | 배틀로얄 | 20시간 | 2025-01-01 | [Review](https://github.com/fkdl0048/GameReview/issues/22) |
